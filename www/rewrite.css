@@ -2,3 +2,22 @@ body {
     font-family: sans-serif;
     font-size: 100%;
 }
+
+.filediff {
+    padding: 10px;
+    background-color: #eee;
+}
+
+.code {
+    font-family: monospace;
+    white-space: pre;
+}
+
+.lineno {
+    font-family: monospace;
+    width: 35px;
+    float: left;
+    text-align: right;
+    padding-right: 10px;
+    color: rgb(0, 0, 68);
+}
